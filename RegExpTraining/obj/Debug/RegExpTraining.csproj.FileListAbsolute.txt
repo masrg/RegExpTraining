@@ -1,0 +1,8 @@
+C:\Users\alex\source\repos\RegExpTraining\RegExpTraining\bin\Debug\RegExpTraining.exe.config
+C:\Users\alex\source\repos\RegExpTraining\RegExpTraining\bin\Debug\RegExpTraining.exe
+C:\Users\alex\source\repos\RegExpTraining\RegExpTraining\bin\Debug\RegExpTraining.pdb
+C:\Users\alex\source\repos\RegExpTraining\RegExpTraining\obj\Debug\RegExpTraining.csproj.AssemblyReference.cache
+C:\Users\alex\source\repos\RegExpTraining\RegExpTraining\obj\Debug\RegExpTraining.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex\source\repos\RegExpTraining\RegExpTraining\obj\Debug\RegExpTraining.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\RegExpTraining\RegExpTraining\obj\Debug\RegExpTraining.exe
+C:\Users\alex\source\repos\RegExpTraining\RegExpTraining\obj\Debug\RegExpTraining.pdb

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<elements>
+  <testtext>текст для тестов</testtext>
+  <regtext>(те)(\w{1,2}т)</regtext>
+</elements>
